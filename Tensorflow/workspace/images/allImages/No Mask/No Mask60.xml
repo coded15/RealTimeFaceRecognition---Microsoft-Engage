@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No Mask</folder>
+	<filename>No Mask60.jpg</filename>
+	<path>E:\Desktop\RealTimeFaceRecognition---Microsoft-Engage\Tensorflow\workspace\images\allImages\No Mask\No Mask60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>686</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>249</ymin>
+			<xmax>410</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
