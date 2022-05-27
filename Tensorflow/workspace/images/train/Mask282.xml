@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>Mask282.jpg</filename>
+	<path>E:\Desktop\RealTimeFaceRecognition---Microsoft-Engage\Tensorflow\workspace\images\allImages\Mask\Mask282.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>916</xmin>
+			<ymin>709</ymin>
+			<xmax>1595</xmax>
+			<ymax>1265</ymax>
+		</bndbox>
+	</object>
+</annotation>

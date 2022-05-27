@@ -30,7 +30,7 @@ CHECKPOINT_PATH = MODEL_PATH+'/my_ssd_mobnet/'
 path = 'Tensorflow/workspace/images/train/'
 for file in os.listdir(path):
     extension = file.split('.')[-1]
-    if extension == 'png':
+    if extension == 'jpg':
         fileLoc = path+file
         img = Image.open(fileLoc)
         if img.mode != 'RGB':
